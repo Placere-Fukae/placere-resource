@@ -1,0 +1,2 @@
+# placere-resource
+resource
